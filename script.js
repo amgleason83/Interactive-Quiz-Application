@@ -12,20 +12,20 @@ const Questions = {
         { question: "What is X if 56=8x?" , options: ["8","7","56","32"], answer:"7"},
     ],
 
-    Science:
+    Science:[],
 
-    History:
+    History:[],
 
-    Geography:
+    Geography:[],
 
-    English:
+    English:[],
 
-    Art:
+    Art:[],
 
-    Music:
+    Music:[],
 
-    Computer Science:
+    CS:[],
 
-    PE:
+    PE:[],
 
 };

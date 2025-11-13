@@ -65,7 +65,7 @@ const Questions = {
         { question: "Which word is an adjective?", options: ["Blue","Run","Happily","Fastly"], answer: "Blue" },
     ],
 
-    Art:
+    Art:[],
 
     Music: [
         { question: "Which musical symbol indicates silence?", options: ["Rest","Note","Clef","Sharp"], answer: "Rest" },
@@ -80,8 +80,8 @@ const Questions = {
         { question: "What is the large drum in an orchestra called?", options: ["Bass Drum","Snare Drum","Tom","Cymbal"], answer: "Bass Drum" },
     ],
 
-    Computer Science:
+    ComputerScience:[],
 
-    PE:
+    PE:[],
 
 };

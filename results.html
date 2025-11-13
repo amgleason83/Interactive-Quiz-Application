@@ -38,5 +38,18 @@
   temporary link -> Home Page
 </a>
 
+<script>
+  // pull the score from localStorage
+  const score = localStorage.getItem("latestScore");
+
+  // the element that displays the score
+  const scoreEl = document.getElementById("score");
+
+  // update the page
+  if (scoreEl && score !== null) {
+    scoreEl.textContent = `You scored ${score} out of 10`;
+  }
+</script>
+
 </body>
 </html>

@@ -33,7 +33,7 @@ const Questions = {
         { question: "What wall divided Berlin during the Cold War?", options: ["Berlin Wall","Great Wall","Iron Curtain","Wall of China"], answer: "Berlin Wall" },
         { question: "Who wrote the Declaration of Independence?", options: ["Thomas Jefferson","Benjamin Franklin","John Adams","James Madison"], answer: "Thomas Jefferson" },
         { question: "What ship sank in 1912 after hitting an iceberg?", options: ["Titanic","Mayflower","Endeavour","Santa Maria"], answer: "Titanic" },
-        { question: "Who was known as the 'Maid of OrlÃ©ans'?", options: ["Joan of Arc","Cleopatra","Queen Victoria","Marie Curie"], answer: "Joan of Arc" },
+        { question: "Who was known as the 'Maid of Orléans'?", options: ["Joan of Arc","Cleopatra","Queen Victoria","Marie Curie"], answer: "Joan of Arc" },
         { question: "Which empire was ruled by Julius Caesar?", options: ["Roman Empire","Greek Empire","Mongol Empire","British Empire"], answer: "Roman Empire" },
         { question: "What country was led by Napoleon Bonaparte?", options: ["France","Germany","Italy","Spain"], answer: "France" },
     ],

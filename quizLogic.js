@@ -1,8 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  // --------------------------------------
-  // INDEX PAGE LOGIC
-  // --------------------------------------
+  // index page logic
   const subjectCards = document.querySelectorAll('.card');
   if (subjectCards.length > 0) {
     subjectCards.forEach(card => {
@@ -13,9 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // --------------------------------------
-  // QUIZ PAGE LOGIC
-  // --------------------------------------
+  // quiz page logic
   const quizPage = document.querySelector('.quiz-container');
   if (quizPage) {
 
@@ -100,6 +96,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     });
 
-  } // END quizPage check
+  } 
 
-}); // END DOMContentLoaded
+}); 
